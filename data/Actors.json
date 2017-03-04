@@ -1,4 +1,5 @@
 [
 null,
-{"id":1,"battlerName":"Actor1_5","characterIndex":4,"characterName":"Actor1","classId":1,"equips":[1,1,2,3,0],"faceIndex":4,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
+{"id":1,"battlerName":"Actor1_5","characterIndex":4,"characterName":"Actor1","classId":1,"equips":[1,1,2,3,0],"faceIndex":4,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"Actor1_6","characterIndex":5,"characterName":"Actor1","classId":1,"equips":[1,1,2,3,4],"faceIndex":5,"faceName":"Actor1","traits":[{"code":11,"dataId":1,"value":2},{"code":12,"dataId":0,"value":0.001},{"code":31,"dataId":1,"value":1},{"code":32,"dataId":1,"value":3},{"code":33,"dataId":0,"value":50},{"code":41,"dataId":1,"value":1},{"code":42,"dataId":1,"value":1},{"code":43,"dataId":8,"value":1},{"code":44,"dataId":5,"value":1},{"code":51,"dataId":2,"value":1},{"code":52,"dataId":4,"value":1},{"code":52,"dataId":6,"value":1},{"code":55,"dataId":1,"value":1},{"code":64,"dataId":4,"value":1}],"initialLevel":2,"maxLevel":99,"name":"test cc","nickname":"tc","note":"","profile":""}
 ]
