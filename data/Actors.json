@@ -1,4 +1,8 @@
 [
 null,
-{"id":1,"battlerName":"Actor1_5","characterIndex":4,"characterName":"Actor1","classId":1,"equips":[1,1,2,3,0],"faceIndex":4,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
+{"id":1,"battlerName":"Actor1_5","characterIndex":4,"characterName":"Actor1","classId":1,"equips":[1,1,2,3,0],"faceIndex":4,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"Actor1_3","characterIndex":2,"characterName":"Actor1","classId":2,"equips":[2,1,2,3,4],"faceIndex":2,"faceName":"Actor1","traits":[{"code":11,"dataId":1,"value":1},{"code":12,"dataId":0,"value":1},{"code":14,"dataId":4,"value":1},{"code":31,"dataId":2,"value":1},{"code":32,"dataId":7,"value":1}],"initialLevel":1,"maxLevel":99,"name":"jake","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"x fluff yo","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"Shawn","nickname":"","note":"","profile":""},
+{"id":5,"battlerName":"Tyler","characterIndex":0,"characterName":"Tylermove","classId":1,"equips":[0,0,0,0,0],"faceIndex":3,"faceName":"Tyler","traits":[],"initialLevel":1,"maxLevel":99,"name":"Tyler","nickname":"","note":"","profile":""}
 ]
