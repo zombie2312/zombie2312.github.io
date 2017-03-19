@@ -7,5 +7,6 @@ var $plugins =
 {"name":"AltSaveScreen","status":true,"description":"Alternative save/load screen layout.","parameters":{}},
 {"name":"SimpleMsgSideView","status":true,"description":"at sideview battle, only display item/skill names.","parameters":{"displayAttack":"0","position":"1"}},
 {"name":"TitleCommandPosition","status":true,"description":"Changes the position of the title command window.","parameters":{"Offset X":"0","Offset Y":"0","Width":"240","Background":"0"}},
-{"name":"WeaponSkill","status":true,"description":"Change skill id of attack for each weapon.","parameters":{}}
+{"name":"WeaponSkill","status":true,"description":"Change skill id of attack for each weapon.","parameters":{}},
+{"name":"EnemyBook","status":false,"description":"Displays detailed statuses of enemies.","parameters":{"Unknown Data":"??????"}}
 ];

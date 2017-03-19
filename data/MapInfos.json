@@ -1,7 +1,7 @@
 [
 null,
-{"id":1,"expanded":true,"name":"Normal Town","order":3,"parentId":0,"scrollX":1279.2,"scrollY":524.4},
-{"id":2,"expanded":true,"name":"World 1","order":2,"parentId":0,"scrollX":2089.2,"scrollY":1232.3999999999999},
+{"id":1,"expanded":true,"name":"Normal Town","order":3,"parentId":0,"scrollX":1386,"scrollY":463},
+{"id":2,"expanded":true,"name":"World 1","order":2,"parentId":0,"scrollX":2596,"scrollY":5738},
 {"id":3,"expanded":true,"name":"Inn 1F 1","order":4,"parentId":1,"scrollX":929.1428571428571,"scrollY":522.8571428571428},
 {"id":4,"expanded":false,"name":"Inn 2F","order":5,"parentId":1,"scrollX":929.1428571428571,"scrollY":522.8571428571428},
 {"id":5,"expanded":true,"name":"intro","order":1,"parentId":0,"scrollX":722.6666666666666,"scrollY":413.3333333333333},
