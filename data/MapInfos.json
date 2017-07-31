@@ -20,11 +20,11 @@ null,
 {"id":18,"expanded":true,"name":"Mining City","order":23,"parentId":0,"scrollX":816,"scrollY":1224},
 {"id":19,"expanded":true,"name":"Armor Shop 3","order":24,"parentId":18,"scrollX":722.6666666666666,"scrollY":413.3333333333333},
 {"id":20,"expanded":true,"name":"Item Shop 3","order":25,"parentId":18,"scrollX":722.6666666666666,"scrollY":413.3333333333333},
-{"id":21,"expanded":false,"name":"Mansion 1","order":22,"parentId":8,"scrollX":1256,"scrollY":1220},
+{"id":21,"expanded":false,"name":"Mansion 1","order":22,"parentId":8,"scrollX":1237.3333333333333,"scrollY":1210},
 {"id":22,"expanded":true,"name":"Weapon Shop 3","order":26,"parentId":18,"scrollX":529,"scrollY":318.5},
 {"id":23,"expanded":false,"name":"House 1 1","order":12,"parentId":1,"scrollX":650.4,"scrollY":366},
 {"id":24,"expanded":false,"name":"dev room ","order":3,"parentId":2,"scrollX":709.3333333333334,"scrollY":396.6666666666667},
 {"id":25,"expanded":false,"name":"dujin","order":27,"parentId":22,"scrollX":3472,"scrollY":2491.3333333333335},
-{"id":26,"expanded":false,"name":"In side the well","order":13,"parentId":1,"scrollX":816,"scrollY":640},
-{"id":27,"expanded":false,"name":"bar","order":14,"parentId":1,"scrollX":721.3333333333334,"scrollY":407.3333333333333}
+{"id":26,"expanded":false,"name":"In side the well","order":13,"parentId":1,"scrollX":709.3333333333334,"scrollY":640.6666666666666},
+{"id":27,"expanded":false,"name":"bar","order":14,"parentId":1,"scrollX":720,"scrollY":407.3333333333333}
 ]
